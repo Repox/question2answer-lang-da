@@ -115,7 +115,7 @@
 		'nav_no_upvoted_answer' => 'Ingen stemmer',
 		'nav_qa' => 'Q&A',
 		'nav_qs' => 'Spørgsmål',
-		'nav_register' => 'Registere',
+		'nav_register' => 'Opret bruger',
 		'nav_tags' => 'Tags',
 		'nav_unanswered' => 'Ubesvaret',
 		'nav_updates' => 'Mine updates',

@@ -135,7 +135,7 @@
 		'wall_posts' => "Vægopslag:",
 		'wall_posts_explanation' => "Tillad brugere at lave opslag på din væg (som du også vil modtage en mail på)",
 		'registered_label' => "Registreret:",
-		'remember' => "Husk",		
+		'remember' => "Husk mig",		
 	);
 	
 
